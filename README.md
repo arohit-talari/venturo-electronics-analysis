@@ -22,11 +22,23 @@ Venturo's customer base spans approximately 52,000 customers across 110,000+ tra
 
 This performance review was commissioned for the Head of Operations to comprehensively evaluate Venturo's commercial performance across 2022–2025. The findings are designed to equip internal cross-functional teams with the operational and sales intelligence needed to reduce refund rates, grow loyalty enrollment, improve regional performance, and drive sustainable revenue growth. The insights and recommendations are built around the company's most critical performance metrics and strategic levers, organized across four northstar metrics:
 
-**North Star Metrics 
-**
-- Sales Performance - Revenue, Order Volume, Average Order Value (AOV) 
-- Product Performance - Revenue Contribution by Product Line, AOV Trends, Refund Rate Analysis
-- Customer Loyalty - Loyalty Adoption Rates, Repeat Purchase Behavior, AOV Premium, Customer Retention by Loyalty Status
-- Regional Performance - Demand Concentration by Region, Fulfillment Performance, Product-Level Revenue Drivers
+**North Star Metrics**
 
---- 
+- **Sales Performance** - Revenue, Order Volume, Average Order Value (AOV) 
+- **Product Performance** - Revenue Contribution by Product Line, AOV Trends, Refund Rate Analysis
+- **Customer Loyalty** - Loyalty Adoption Rates, Repeat Purchase Behavior, AOV Premium, Customer Retention by Loyalty Status
+- **Regional Performance** - Demand Concentration by Region, Fulfillment Performance, Product-Level Revenue Drivers
+
+---
+
+## Executive Summary 
+
+Between 2022 and 2025, Venturo Electronics generated **$63.8M** in revenue across **110,000+ transactions** — moving through a post-pandemic baseline, inflation-driven slowdown, a sharp 2024 contraction, and a broad 2025 recovery. **2024** marks the clear inflection point: the only year in which revenue, average order value (AOV), and order volume declined simultaneously, by **42%**, **24%**, and **23%**, respectively. This contraction was uniform across all products, regions, and quarters, pointing to broad economic pressure as the cause rather than anything broken internally.
+
+While the 2025 recovery was strong — revenue rebounding **56%** to **$16.3M** — performance diverged sharply by customer segment. Loyalty member sales recovered **93%** from their 2024 low versus just **39%** for non-members, with nearly double the retention rate. Two opportunities stand out heading into 2026: expand loyalty adoption — particularly in EMEA, where enrollment trails North America by **12.5** percentage points — and address APAC's delivery times, which run **171%** longer than the NA benchmark.
+
+---
+
+## Data Structure & ERD
+
+The database consists of five tables — `orders`, `customers`, `date_dim`, `geo_lookup`, and `order_status`— comprising 110,542 records. `orders` serves as the central fact table, linking to `customers` via `customer_id`, fulfillment and refund data via `order_id` through `order_status`, time-series dimensions via `date_dim`, and regional classification via `geo_lookup` through `country_code`.
