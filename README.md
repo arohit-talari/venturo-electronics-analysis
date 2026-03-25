@@ -4,7 +4,12 @@
 
 # Venturo Electronics — Performance Analysis 2022–2025
 
-![Tools](https://img.shields.io/badge/Tools-Excel%20%7C%20SQL%20%7C%20MySQL-1B3A6B)
-![Records](https://img.shields.io/badge/Records-110%2C542-2E86AB)
-![Revenue](https://img.shields.io/badge/GMV-%2465M%2B-1B3A6B)
-![Period](https://img.shields.io/badge/Period-2022--2025-2E86AB)
+## Table of Contents
+- [Client Background](#client-background)
+- [Executive Summary](#executive-summary)
+- [Data Structure & ERD](#data-structure--erd)
+- [Insights Deep Dive](#insights-deep-dive)
+- [Recommendations](#recommendations)
+- [Caveats & Assumptions](#caveats--assumptions)
+
+---
