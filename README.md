@@ -44,7 +44,7 @@ While the 2025 recovery was strong — revenue rebounding **56%** to **$16.3M** 
 The database consists of five tables — `orders`, `customers`, `date_dim`, `geo_lookup`, and `order_status`— comprising 110,542 records. `orders` serves as the central fact table, linking to `customers` via `customer_id`, fulfillment and refund data via `order_id` through `order_status`, time-series dimensions via `date_dim`, and regional classification via `geo_lookup` through `country_code`.
 
 <p align="center">
-<img src="images/erd.png" width="750">
+<img src="images/erd.png" width="800">
 </p>
 
 --- 
@@ -54,7 +54,7 @@ The database consists of five tables — `orders`, `customers`, `date_dim`, `geo
 ### Sales Performance
 
 <p align="center">
-<img src="images/sales_revenue_aov_volume.png" width="750">
+<img src="images/sales_revenue_aov_volume.png" width="1000">
 </p>
 
 **2024 Was the Only Year All Three Core Metrics Contracted Simultaneously — Macro, Not Operational**
@@ -97,7 +97,7 @@ The database consists of five tables — `orders`, `customers`, `date_dim`, `geo
 - Amazon Alexa and Anker Power Bank were the only two products that declined in 2025 — their 2024 trade-down gains reversed as customers returned to premium purchases.
 
 <p align="center">
-<img src="images/product_aov_heatmap.png" width="750">
+<img src="images/product_aov_heatmap.png" width="1000">
 </p>
 *Note: each row is scaled to that product's own four-year range — color intensity reflects relative performance within each product line, not absolute AOV comparisons across products*
 
@@ -169,7 +169,7 @@ The database consists of five tables — `orders`, `customers`, `date_dim`, `geo
 - APAC posted the second-lowest recovery rate in 2025 at **55%** — with the longest delivery times and the second-lowest loyalty adoption at **34.4%**. Faster delivery is the most direct fix available to improve APAC's standing.
 
 <p align="center">
-<img src="images/revenue_recovery.png" width="750">
+<img src="images/revenue_recovery.png" width="900">
 </p>
 
 **All Four Regions Collapsed Together in 2024 — Recovery Diverged, With Loyalty Adoption as the Strongest Directional Indicator**
