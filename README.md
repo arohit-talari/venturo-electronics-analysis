@@ -170,7 +170,7 @@ The database consists of five tables — `orders`, `customers`, `date_dim`, `geo
 - APAC and LATAM sit between these extremes with recoveries of **55%** and **49%** respectively — loyalty adoption is the strongest directional indicator of recovery performance, though not the only factor at play.
 
 <p align="center">
-<img src="images/regional_baseline.png" width="900" height="400">
+<img src="images/regional_baseline.png" width="900" height="416">
 </p>
 
 **Every Region Recovered Ground in 2025 — None Have Fully Returned to 2022 Baseline**
