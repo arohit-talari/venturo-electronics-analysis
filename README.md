@@ -84,7 +84,7 @@ The database consists of five tables — `orders`, `customers`, `date_dim`, `geo
 ### Product Performance
 
 <p align="center">
-<img src="images/product_sales_lines.png" width="900" height="500">
+<img src="images/product_sales_lines.png" width="900" height="600">
 </p>
 
 <p align="center">
