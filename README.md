@@ -99,6 +99,7 @@ The database consists of five tables — `orders`, `customers`, `date_dim`, `geo
 <p align="center">
 <img src="images/product_aov_heatmap.png" width="900" height="290">
 </p>
+
 *Note: each row is scaled to that product's own four-year range — color intensity reflects relative performance within each product line, not absolute AOV comparisons across products*
 
 **AOV Compression in 2024 Was Catalog-Wide — With One Notable Exception Among Budget Product Lines**
