@@ -132,7 +132,7 @@ The database consists of five tables — `orders`, `customers`, `date_dim`, `geo
 - These **8,823** customers already know Venturo — re-engaging them costs less than acquiring new ones, and loyalty enrollment gives them a reason to stay.
 
 <p align="center">
-<img src="images/loyalty_aov.png" width="900" height="359">
+<img src="images/loyalty_aov.png" width="900" height="459">
 </p>
 
 **The Loyalty AOV Premium Is Widening — Membership Compounds Spending Behavior Over Time**
