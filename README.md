@@ -2,9 +2,9 @@
   <img src="images/logo_horizontal.png" width="400">
 </p>
 
-# Venturo Electronics — Performance Analysis 2022–2025
+<h1 align="center">Venturo Electronics — Performance Analysis</h1>
 
-## Table of Contents
+<h2 align="center">Table of Contents</h2>
 - [Client Background](#client-background)
 - [Executive Summary](#executive-summary)
 - [Data Structure & ERD](#data-structure--erd)
@@ -14,7 +14,7 @@
 
 ---
 
-## Client Background
+<h2 align="center">Client Background</h2>
 
 Venturo Electronics is a US-based direct-to-consumer electronics retailer serving a global customer base across four regions — NA, EMEA, LATAM, and APAC. Founded in 2014, the company offers a curated catalog of consumer electronic products spanning premium, mid-tier, and budget price points, distributed exclusively through digital channels. 
 
