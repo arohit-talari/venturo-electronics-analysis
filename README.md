@@ -157,7 +157,7 @@ The database consists of five tables — `orders`, `customers`, `date_dim`, `geo
 <img src="images/delivery_times.png" width="750" height="388">
 </p>
 
-- APAC averages **9.51** days to delivery, versus NA's **3.51-day benchmark** — **171%** longer — with LATAM (**8.50** days) and EMEA (**7.50 days**) also significantly trailing.
+- APAC averages **9.51 days to delivery**, versus NA's **3.51-day benchmark** — **171%** longer — with LATAM (**8.50** days) and EMEA (**7.50 days**) also significantly trailing.
 - APAC posted the second-lowest recovery rate in 2025 at **55%** — with the longest delivery times and the second-lowest loyalty adoption at **34.4%**. Faster delivery is the most direct fix available to improve APAC's standing.
 
 <p align="center">
