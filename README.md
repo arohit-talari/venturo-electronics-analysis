@@ -40,7 +40,7 @@ The database consists of five tables — `orders`, `customers`, `date_dim`, `geo
 </p>
 
 --- 
-<h2 align="center">Insights Deep Dive</h2>
+<h1 align="center">Insights Deep Dive</h1>
 
 <h2 align="center">Sales Performance</h2>
 
