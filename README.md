@@ -146,7 +146,7 @@ The database consists of five tables — `orders`, `customers`, `date_dim`, `geo
 <h2 align="center">Regional Performance</h2>
 
 <p align="center">
-<img src="images/region_aov_orders.png" width="750">
+<img src="images/region_aov_orders.png" width="900" height="478">
 </p>
 
 **NA Dominates Volume — Regional AOV Is Tightly Clustered, Making This a Volume Problem, Not a Pricing Problem**
