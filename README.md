@@ -104,7 +104,7 @@ The database consists of five tables — `orders`, `customers`, `date_dim`, `geo
 
 **The 2024 Refund Spike Was Systemic — Every Product Crossed 10% Simultaneously**
 - The overall refund rate rose from **6.5%** in 2022, peaked at **12.0%** in 2024, and fell back to **7.1%** in 2025 — nearly doubling from 2022 before almost fully reversing by 2025.
-- Every product breached the 10% refund threshold simultaneously in 2024 — Amazon Alexa peaked at **13.2%**, MacBook Air at **12.5%**, and Anker Power Bank at **12.4%** — no product was insulated from the spike, regardless of tier or category.
+- Every product breached the **10%** refund threshold simultaneously in 2024 — Amazon Alexa peaked at **13.2%**, MacBook Air at **12.5%**, and Anker Power Bank at **12.4%** — no product was insulated from the spike, regardless of tier or category.
 - A product quality or operational failure would surface through specific product lines — a simultaneous breach across every price tier in the same year points to customers pulling back financially, not a product or operations problem — and the 2025 return to near-baseline rates confirms the cause was cyclical, not structural.
 
 <h2 align="center">Customer Loyalty</h2>
