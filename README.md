@@ -197,15 +197,15 @@ The database consists of five tables — `orders`, `customers`, `date_dim`, `geo
 <h3 align="center">Product Performance</h3>
 
 **Protect MacBook Air as the Revenue Anchor**
-- MacBook Air has consistently accounted for 20-21% of total revenue across all four years, all four regions, and every market condition — no other product carries this level of concentration or risk.
+- MacBook Air has consistently accounted for **20-21%** of total revenue across all four years, all four regions, and every market condition — no other product carries this level of concentration or risk.
 - Supply, pricing, and promotional decisions for MacBook Air should be treated as portfolio-level decisions - there is no product that can absorb the revenue impact if this anchor underperforms.
 
 **Prioritize Premium Tier Inventory During Recovery Cycles**
-- MacBook Air, Samsung Galaxy S24, and iPhone posted the three highest recovery rates in the catalog (+80.8%, +77.3%, +75.5%) — Alexa and Anker were the only two that declined. Budget gains during downturns reverse when conditions improve.
+- MacBook Air, Samsung Galaxy S24, and iPhone posted the three highest recovery rates in the catalog (**+80.8%**, **+77.3%**, **+75.5%**) — Alexa and Anker were the only two that declined. Budget gains during downturns reverse when conditions improve.
 - When macro conditions show signs of recovery, skew inventory and marketing investment toward the premium tier - that is where lasting revenue growth comes from.
 
 **Treat Refund Rate as an Early Warning Indicator**
-- The overall refund rate climbed from 6.5% in 2022 to 12.0% in 2024 — breaching the 10% threshold across all 10 products simultaneously before the revenue collapse was fully visible in quarterly reports.
+- The overall refund rate climbed from **6.5%** in 2022 to **12.0%** in 2024 — breaching the **10%** threshold across all 10 products simultaneously before the revenue collapse was fully visible in quarterly reports.
 - A simultaneous multi-product breach above 10% should prompt an immediate demand and pricing review — it signals customers pulling back financially before the revenue impact shows up.
 
 <h3 align="center">Customer Loyalty</h3>
