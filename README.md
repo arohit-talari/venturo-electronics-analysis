@@ -4,8 +4,6 @@
 
 <h1 align="center">Venturo Electronics — Performance Analysis</h1>
 
----
-
 <h1 align="center">Client Background</h1>
 
 Venturo Electronics is a US-based direct-to-consumer electronics retailer serving a global customer base across four regions — NA, EMEA, LATAM, and APAC. Founded in 2014, the company offers a curated catalog of consumer electronic products spanning premium, mid-tier, and budget price points, distributed exclusively through digital channels. 
