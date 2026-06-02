@@ -47,18 +47,18 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 </p>
 
 **2024 Was the Only Year All Three Core Metrics Contracted Simultaneously — Macro, Not Operational**
-- Revenue, average order value (AOV), and order volume all hit four-year lows in 2024 — monthly revenue troughed at **$0.8M** against a **$1.3M** average, AOV compressed to **$472** against a **$589** average, and order volume bottomed at **1,641** against a **2,200** average.
-- On an annual basis, revenue fell **42%** from **$17.8M** to **$10.4M**, AOV dropped **24%** from **$638** to **$484**, and order volume declined **23%** from **27,859** to **21,483** — uniform across all 10 products, all 4 regions, and all 4 quarters, confirming the cause was economic, not operational.
+- Revenue, average order value (AOV), and order volume all hit four-year lows in 2024. Monthly revenue troughed at **$0.8M** against a **$1.3M** average, AOV compressed to **$472** against a **$589** average, and order volume bottomed at **1,641** against a **2,200** average.
+- On an annual basis, revenue fell **42%** from **$17.8M** to **$10.4M**, AOV dropped **24%** from **$638** to **$484**, and order volume declined **23%** from **27,859** to **21,483**, uniform across all 10 products, all 4 regions, and all 4 quarters. The cause was economic, not operational. 
 - Every other year had at least one offsetting metric: 2023 saw AOV rise **6%** despite order volume falling **13%** — pricing power absorbed weaker demand. In 2024, there was no such offset.
 
 **Revenue Rebounded 56% in 2025 — But All Three Metrics Remain Below Their Four-Year Averages**
-- Revenue rebounded **56%** to **$16.3M**, and AOV strengthened to **$634** — matching 2023 inflation-era highs, with the 2024→2025 Q4→Q1 transition producing a **+45.6%** revenue jump, the strongest positive quarterly transition.
-- Order volume recovered to **25,687**, yet all three metrics remain below their four-year averages — the business is trending in the right direction, but hasn't returned to where it was before 2024.
+- Revenue rebounded **56%** to **$16.3M**, and AOV strengthened to **$634**, matching 2023 inflation-era highs. The 2024→2025 Q4→Q1 produced a **+45.6%** revenue jump, the strongest positive quarterly transition.
+- Order volume recovered to **26,687**, yet all three metrics remain below their four-year averages. The business is trending in the right direction but hasn't returned to where it was before 2024.
 - AOV's recovery to **$634** is the strongest signal — customers returning in 2025 are spending at 2023 levels, confirming that loyalty expansion brought back higher-value buyers rather than discount-driven volume.
 
 **January Functions as a Macro Leading Indicator — Monthly Variation Is Noise**
-- January year-over-year performance predicted full-year outcomes without exception: a strong 2022 open, a modest 2023 dip, a simultaneous three-metric decline in 2024, and a sharp 2025 recovery — each accurately signaling the full-year outcome from the outset.
-- Outside of January, month-over-month revenue averaged just **3%**, and AOV averaged **5%** across the remaining 11 months — single-month variance below those thresholds should not trigger strategic intervention.
+- January year-over-year performance predicted full-year outcomes without exception: a strong 2022 open, a modest 2023 dip, a simultaneous three-metric decline in 2024, and a sharp 2025 recovery. Each accurately signaled the full-year outcome from the outset.
+- Outside of January, month-over-month revenue averaged just **3%**, and AOV averaged **5%** across the remaining 11 months. Single-month variance below those thresholds should not trigger strategic intervention.
 - A formal January review costs nothing and gives operations its earliest possible signal before the year's trajectory is locked in.
 
 <p align="center">
@@ -67,7 +67,7 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 
 **Mobile Overtook Desktop in 2024 and Widened Its Lead in 2025 — A Four-Year Channel Reversal**
 - Desktop held **58%** of order volume in 2022; by 2025, mobile reached **58%** — a precise four-year inversion. The shift was progressive: desktop maintained a majority share through 2023 (52/48) before mobile crossed over in **2024** (53/47) and widened its lead in 2025 (58/42).
-- The marketing channel mix was flat across all four years — social media anchored **~46%** of orders as the dominant acquisition channel, while email served as the primary retention and lifecycle channel throughout.
+- The marketing channel mix was flat across all four years. Social media anchored **~46%** of orders as the dominant acquisition channel, while email served as the primary retention and lifecycle channel throughout.
 - With mobile now driving the majority of transactions, checkout flow, payment experience, and page performance are baseline operational requirements — any friction directly impacts the majority of revenue.
 
 <h3 align="center">Product Performance</h3>
