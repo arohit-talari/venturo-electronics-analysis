@@ -59,7 +59,7 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 **January Functions as a Macro Leading Indicator — Monthly Variation Is Noise**
 - January year-over-year performance predicted full-year outcomes without exception: a strong 2022 open, a modest 2023 dip, a simultaneous three-metric decline in 2024, and a sharp 2025 recovery. Each accurately signaled the full-year outcome from the outset.
 - Outside of January, month-over-month revenue averaged just **3%**, and AOV averaged **5%** across the remaining 11 months. Single-month variance below those thresholds should not trigger strategic intervention.
-- A formal January review costs nothing and gives operations its earliest possible signal before the year's trajectory is locked in.
+- A formal January review gives operations its earliest possible signal before the year's trajectory is locked in.
 
 <p align="center">
 <img src="images/order_channel_mix.png" width="750" height="388">
