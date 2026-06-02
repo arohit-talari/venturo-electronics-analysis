@@ -237,35 +237,34 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 
 <h2 align="center">Caveats & Assumptions</h2>
 
-<h2 align="center">Data Cleaning & Preparation</h2>
+<h3 align="center">Data Cleaning & Preparation</h3>
 
 *Date Standardization*
-- `order_ts`, `ship_ts`, `delivery_ts`, and `refund_ts` contained inconsistent date formats across 34,000+ rows — all standardized to a uniform M/D/YY format prior to analysis.
-- 3,353 records contained NULL values under `order_ts` — retained as-is and excluded from all time-series analysis, as reliable imputation was not possible without risking inaccurate data.
+- `order_ts`, `ship_ts`, `delivery_ts`, and `refund_ts` contained inconsistent date formats across 34,000+ rows. All were standardized to a uniform M/D/YY format prior to analysis.
+- 3,353 records contained NULL values under `order_ts` and were excluded from all time-series analysis. Filling in these values without a source reference would risk introducing inaccurate data.
 
 *Product Data*
-- Product names were inconsistently formatted across 26,840 rows — standardized via a product lookup table mapping raw entries to canonical names.
-- `product_id` values were not validated against `product_name` in the source system — all mismatched pairs were identified and corrected via cross-reference against the product lookup table.
+- Product names were inconsistently formatted across 26,840 rows. All entries were standardized via a product lookup table mapping raw values to canonical names.
+- `product_id` values were not validated against `product_name` in the source system. All mismatched pairs were identified and corrected via cross-reference against the product lookup table.
 
 *Retained Limitations*
-- `marketing_channel` contains an 'Unknown' category representing 15% of records (~16,129 orders) — a system-assigned value where the pipeline failed to match the order to a known acquisition channel. Re-categorization is not feasible without source system logs.
-- `account_creation_method` contains an 'Unknown' category representing 17% of records (~19,139) — reflecting edge cases where the creation method was unloggable. Accepted as a valid category with the caveat that how customers create accounts may be underepresented in any channel-level analysis.
+- `marketing_channel` contains an 'Unknown' category representing **15%** of records (~**16,129** orders). This is a system-assigned value where the pipeline failed to match the order to a known acquisition channel. Re-categorization is not feasible without source system logs.
+- `account_creation_method` contains an 'Unknown' category representing **17%** of records (~**19,139**), reflecting edge cases where the creation method was unloggable. Accepted as a valid category with the caveat that how customers create accounts may be underepresented in any channel-level analysis.
 
 *Regional & Country Data*
-- `country_code` entries were remapped to ISO 3166-1 alpha-2 standard across 14,433 rows — resolving all non-conforming alpha-3 format entries via the country lookup table.
-- Region values containing casing and spacing variants were standardized across 13,568 rows to canonical formatting.
+- `country_code` entries inconsistently formatted across 14,433 rows. All were standardized to a uniform two-letter country code format using a country lookup table.
 
 *Self-Generated Columns*
-- Nine columns were derived from `order_ts` — including `order_year`, `order_quarter`, `order_month`, `order_season`, and `days_till_delivery` — enabling all time-series, seasonal, and fulfillment analysis performed throughout this report.
+- Nine columns were derived from `order_ts`, including `order_year`, `order_quarter`, `order_month`, `order_season`, and `days_till_delivery`. These enabled all time-series, seasonal, and fulfillment analysis performed throughout this report.
 
-<h2 align="center">Analytical Assumptions</h2>
+<h3 align="center">Analytical Assumptions</h3>
 
 - All year-over-year, seasonal, and monthly figures reflect the filtered dataset of **$63.8M** across **~51,026 customers** — excluding **3,353** records with missing order timestamps accounts for the **~$1.9M** discrepancy between the full data (**$65M**, **~52,000** customers) and filtered analysis.
 - The customer retention rate analysis reflects a single cohort (2024→2025) — a point-in-time measure that should not be extrapolated as a multi-year retention trend.
 - The correlation between loyalty adoption rate and regional recovery rate is directional, not causal — fulfillment performance, product mix, and regional macroeconomic conditions may also contribute to recovery rate differences and have not been fully isolated.
 - The macro narrative is inferred entirely from internal data patterns — external economic indicators were not incorporated and have not been validated against the findings presented here.
 
-<h2 align="center">Visualization Notes</h2>
+<h3 align="center">Visualization Notes</h3>
 
 - The Product AOV Heatmap uses row-level scaling — color intensity reflects each product's performance relative to its own four-year range, not absolute AOV comparisons across products.
 - The three-chart Sales Performance panel displays monthly figures — trough values ($0.8M revenue, $472 AOV, 1,641 order volume) represent monthly lows, not annual totals. Annual figures are sourced separately from the yearly growth rate analysis.
