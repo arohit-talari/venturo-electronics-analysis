@@ -67,7 +67,7 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 
 **Mobile Overtook Desktop in 2024 and Widened Its Lead in 2025 — A Four-Year Channel Reversal**
 - Desktop held **58%** of order volume in 2022; by 2025, mobile reached **58%** — a precise four-year inversion. The shift was progressive: desktop maintained a majority share through 2023 (52/48) before mobile crossed over in **2024** (53/47) and widened its lead in 2025 (58/42).
-- The marketing channel mix was flat across all four years. Social media anchored **~46%** of orders as the dominant acquisition channel, while email served as the primary retention and lifecycle channel throughout.
+- The marketing channel mix was flat across all four years. Social media anchored ~**46%** of orders as the dominant acquisition channel, while email served as the primary retention and lifecycle channel throughout.
 - With mobile now driving the majority of transactions, checkout flow, payment experience, and page performance are baseline operational requirements — any friction directly impacts the majority of revenue.
 
 <h3 align="center">Product Performance</h3>
