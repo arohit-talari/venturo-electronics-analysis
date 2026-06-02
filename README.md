@@ -52,7 +52,7 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 - Every other year had at least one offsetting metric: 2023 saw AOV rise **6%** despite order volume falling **13%** — pricing power absorbed weaker demand. In 2024, there was no such offset.
 
 **Revenue Rebounded 56% in 2025 — But All Three Metrics Remain Below Their Four-Year Averages**
-- Revenue rebounded **56%** to **$16.3M**, and AOV strengthened to **$634**, matching 2023 inflation-era highs. The 2024→2025 Q4→Q1 produced a +**45.6%** revenue jump, the strongest positive quarterly transition.
+- Revenue rebounded **56%** to **$16.3M**, and AOV strengthened to **$634**, matching 2023 inflation-era highs. The 2024→2025 Q4→Q1 produced a **+45.6%** revenue jump, the strongest positive quarterly transition.
 - Order volume recovered to **26,687**, yet all three metrics remain below their four-year averages. The business is trending in the right direction but hasn't returned to where it was before 2024.
 - AOV's recovery to **$634** is the strongest signal — customers returning in 2025 are spending at 2023 levels, confirming that loyalty expansion brought back higher-value buyers rather than discount-driven volume.
 
