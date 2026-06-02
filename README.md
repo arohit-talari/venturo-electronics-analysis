@@ -182,11 +182,11 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 <h3 align="center">Sales Performance</h3>
 
 **Formalize January as a Demand Planning Leading Indicator**
-- January predicted full-year outcomes without exception across all four years — a simultaneous decline across revenue, AOV, and order volume in January should trigger an inventory and resource review before Q2 commitments are locked in.
+- January predicted full-year outcomes without exception across all four years. A simultaneous decline across revenue, AOV, and order volume in January should trigger an inventory and resource review before Q2 commitments are locked in.
 - Outside of January, month-over-month variance below **3%** revenue and **5%** AOV does not warrant intervention — January is the signal, everything else is noise.
 
 **Optimize the Mobile Checkout Experience**
-- Mobile reached **58%** of order volume in 2025 — desktop is now the minority channel, meaning checkout friction, slow load times, and poor payment experience are actively costing revenue, not just limiting growth.
+- Mobile reached **58%** of order volume in 2025. Desktop is now the minority channel, meaning checkout friction, slow load times, and poor payment experience are actively costing revenue, not just limiting growth.
 - Mobile checkout flow, payment experience, and page load performance are the minimum requirements for a business where mobile drives the majority of transactions.
 
 **Monitor AOV as a Macro Sentiment Indicator**
@@ -196,36 +196,36 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 <h3 align="center">Product Performance</h3>
 
 **Protect MacBook Air as the Revenue Anchor**
-- MacBook Air has consistently accounted for **20-21%** of total revenue across all four years, all four regions, and every market condition — no other product carries this level of concentration or risk.
-- Supply, pricing, and promotional decisions for MacBook Air should be treated as portfolio-level decisions - there is no product that can absorb the revenue impact if this anchor underperforms.
+- MacBook Air has consistently accounted for **20-21%** of total revenue across all four years, all four regions, and every market condition. No other product carries this level of concentration or risk.
+- Supply, pricing, and promotional decisions for MacBook Air should be treated as portfolio-level decisions. There is no product that can absorb the revenue impact if this anchor underperforms.
 
 **Prioritize Premium Tier Inventory During Recovery Cycles**
 - MacBook Air, Samsung Galaxy S24, and iPhone posted the three highest recovery rates in the catalog (**+80.8%**, **+77.3%**, **+75.5%**) — Alexa and Anker were the only two that declined. Budget gains during downturns reverse when conditions improve.
 - When macro conditions show signs of recovery, skew inventory and marketing investment toward the premium tier - that is where lasting revenue growth comes from.
 
 **Treat Refund Rate as an Early Warning Indicator**
-- The overall refund rate climbed from **6.5%** in 2022 to **12.0%** in 2024 — breaching the **10%** threshold across all 10 products simultaneously before the revenue collapse was fully visible in quarterly reports.
+- The overall refund rate climbed from **6.5%** in 2022 to **12.0%** in 2024, breaching the **10%** threshold across all 10 products simultaneously before the revenue collapse was fully visible in quarterly reports.
 - A simultaneous multi-product breach above 10% should prompt an immediate demand and pricing review — it signals customers pulling back financially before the revenue impact shows up.
 
 <h3 align="center">Customer Loyalty</h3>
 
 **Accelerate Loyalty Enrollment — Prioritize EMEA**
-- EMEA's **29.2%** adoption rate trails NA's **41.7%** by **12.5** percentage points — every region that entered 2025 with higher adoption recovered faster, and EMEA has the most ground to close. 
-- Loyalty members retained at **47.0%** versus **27.0%** for non-members — Closing the EMEA enrollment gap is the single most valuable intervention available heading into 2026.
+- EMEA's **29.2%** adoption rate trails NA's **41.7%** by **12.5** percentage points. Every region that entered 2025 with higher adoption recovered faster, and EMEA has the most ground to close. 
+- Loyalty members retained at **47.0%** versus **27.0%** for non-members. Closing the EMEA enrollment gap is the single most valuable intervention available heading into 2026.
 
 **Re-Engage the 8,823 Lost Non-Loyalty Customers**
-- Of **12,076** non-loyalty customers active in 2024, **8,823** did not return in 2025 — each conversion represents **~$872** in incremental annual revenue, making this a **~$7.7M** addressable opportunity.
+- Of **12,076** non-loyalty customers active in 2024, **8,823** did not return in 2025. Each conversion represents **~$872** in incremental annual revenue, making this a **~$7.7M** addressable opportunity.
 - The customers exist, the dollar value is known, the action is straightforward — a re-engagement campaign with loyalty enrollment incentives directly targets this recoverable opportunity.
 
 **Invest in Loyalty Program Maturation to Maximize Compounding Returns**
 - The loyalty AOV premium grew from **$51** in 2022 to **$94** in 2025 — the longer a customer remains enrolled, the more their spending diverges from non-members.
-- Acquisition campaigns should lead with loyalty enrollment as the primary offer - earlier enrollment means a longer compounding period and a higher lifetime revenue contribution per customer.
+- Acquisition campaigns should lead with loyalty enrollment as the primary offer. Earlier enrollment means a longer compounding period and a higher lifetime revenue contribution per customer.
 
 <h3 align="center">Regional Performance</h3>
 
 **Close APAC's Fulfillment Gap**
-- APAC averages **9.51 days to delivery** versus NA's **3.51-day benchmark** — **171%** longer, directly correlating with APAC's second-lowest recovery rate of **55%** in 2025.
-- Reducing APAC delivery times to within EMEA's **7.50-day benchmark** removes the most identifiable operational barrier in the region — with the longest delivery times and second-lowest recovery rate of 55%, fulfillment speed is the clearest friction point within Venturo's direct control.
+- APAC averages **9.51** days to delivery versus NA's **3.51**-day benchmark, **171%** longer, directly correlating with APAC's second-lowest recovery rate of **55%** in 2025.
+- Reducing APAC delivery times to within EMEA's **7.50**-day benchmark removes the most identifiable operational barrier in the region. With the longest delivery times and second-lowest recovery rate of 55%, fulfillment speed is the clearest friction point within Venturo's direct control.
 
 **Resolve the Marketing Attribution Gap**
 - **15%** of orders (**~16,129**) carry an ‘Unknown’ marketing channel - without knowing how these customers were acquired, Venturo cannot evaluate which channels are working or where acquisition spend is being wasted.
