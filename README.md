@@ -81,7 +81,7 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 </p>
 
 **MacBook Air Anchors Revenue — The Product Hierarchy Held Through Every Market Condition**
-- MacBook Air generated **20-21%** of total revenue consistently across all 4 years, all 4 regions, and every market condition — no other product line approaches this revenue concentration.
+- MacBook Air generated **20-21%** of total revenue consistently across all 4 years, all 4 regions, and every market condition. No other product line approaches this revenue concentration.
 - The premium tier led the 2025 recovery — MacBook Air (**+80.8%**), Samsung Galaxy S24 (**+77.3%**), and iPhone (**+75.5%**) posted the three highest recovery rates in the catalog, with collective premium AOV rebounding from **$773** in 2024 to **$1,107** in 2025, a **43%** recovery across the tier.
 - Amazon Alexa and Anker Power Bank were the only two products that declined in 2025 — their 2024 trade-down gains reversed as customers returned to premium purchases.
 
@@ -89,21 +89,21 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 <img src="images/product_aov_heatmap.png" width="900" height="332">
 </p>
 
-*Note: each row is scaled to that product's own four-year range — color intensity reflects relative performance within each product line, not absolute AOV comparisons across products*
+*Note: each row is scaled to that product's own four-year range, where color intensity reflects relative performance within each product line, not absolute AOV comparisons across products*
 
 **AOV Compression in 2024 Was Catalog-Wide — With One Notable Exception Among Budget Product Lines**
-- Premium and mid-tier products compressed to four-year AOV lows in 2024, recovering uniformly in 2025 — budget products (Amazon Alexa, Anker Power Bank) ran counter to this trend, likely reflecting a shift toward lower-cost alternatives during the downturn, a pattern that normalized in 2025 as customers returned to premium purchases.
+- Premium and mid-tier products compressed to four-year AOV lows in 2024, and recovered uniformly in 2025. Budget products (Amazon Alexa, Anker Power Bank) ran counter to this trend, likely reflecting a shift toward lower-cost alternatives during the downturn, a pattern that normalized in 2025 as customers returned to premium purchases.
 - Premium devices compressed furthest in absolute dollars and rebounded the strongest — confirming that product mix shifts in 2024 were macro-driven, not a structural shift in customer preferences.
-- Overall portfolio AOV recovered to **$634** in 2025 — matching the Sales Performance findings and within **$4** of 2023's **$638** high — confirming returning customers are back to purchasing at full premium price points, not trading down.
+- Overall portfolio AOV recovered to **$634** in 2025, within **$4** of 2023's **$638** high. Returning customers are purchasing at full premium price points, not trading down.
 
 <p align="center">
 <img src="images/refund_rate_heatmap.png" width="750">
 </p>
 
 **The 2024 Refund Spike Was Systemic — Every Product Crossed 10% Simultaneously**
-- The overall refund rate rose from **6.5%** in 2022, peaked at **12.0%** in 2024, and fell back to **7.1%** in 2025 — nearly doubling from 2022 before almost fully reversing by 2025.
-- Every product breached the **10%** refund threshold simultaneously in 2024 — Amazon Alexa peaked at **13.2%**, MacBook Air at **12.5%**, and Anker Power Bank at **12.4%** — no product was insulated from the spike, regardless of tier or category.
-- A product quality or operational failure would surface through specific product lines — a simultaneous breach across every price tier in the same year points to customers pulling back financially, not a product or operations problem — and the 2025 return to near-baseline rates confirms the cause was cyclical, not structural.
+- The overall refund rate rose from **6.5%** in 2022, peaked at **12.0%** in 2024, and fell back to **7.1%** in 2025. It nearly doubling from the 2022 baseline before almost fully reversing by year-end.
+- Every product breached the **10%** refund threshold simultaneously in 2024 — Amazon Alexa peaked at **13.2%**, MacBook Air at **12.5%**, and Anker Power Bank at **12.4%**. No product was insulated from the spike, regardless of tier or category.
+- A product quality or operational failure would surface through specific product lines — a simultaneous breach across every price tier in the same year points to customers pulling back financially, not a product or operations problem. The 2025 return to near-baseline rates confirms the cause was cyclical, not structural.
 
 <h3 align="center">Customer Loyalty</h3>
 
