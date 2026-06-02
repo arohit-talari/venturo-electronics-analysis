@@ -148,16 +148,16 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 </p>
 
 **NA Dominates Volume — Regional AOV Is Tightly Clustered, Making This a Volume Problem, Not a Pricing Problem**
-- NA generated **$27.4M** across **45,343** orders — roughly double any other region — while EMEA (**$13.6M**), LATAM (**$13.0M**), and APAC (**$11.7M**) contribute nearly equally across **23,180**, **22,267**, and **19,752** orders, respectively.
-- Despite the volume gap, regional AOV clusters tightly — NA **$605**, EMEA **$588**, APAC **$592**, LATAM **$584** — a **$21** spread across four global regions. The performance gap is a volume problem, not a pricing one — the path to closing it runs through loyalty enrollment and fulfillment improvement, not discounting.
+- NA generated **$27.4M** across **45,343** orders, roughly double any other region, while EMEA (**$13.6M**), LATAM (**$13.0M**), and APAC (**$11.7M**) contribute nearly equally across **23,180**, **22,267**, and **19,752** orders, respectively.
+- Despite the volume gap, regional AOV clusters tightly: NA **$605**, EMEA **$588**, APAC **$592**, LATAM **$584**, a **$21** spread across four global regions. The performance gap is a volume problem, not a pricing one — the path to closing it runs through loyalty enrollment and fulfillment improvement, not discounting.
 
 <p align="center">
 <img src="images/delivery_times.png" width="750" height="388">
 </p>
 
 **APAC's 9.51-Day Delivery Time Is the Most Actionable Operational Gap**
-- APAC averages **9.51 days to delivery**, versus NA's **3.51-day benchmark** — **171%** longer — with LATAM (**8.50** days) and EMEA (**7.50 days**) also significantly trailing.
-- APAC posted the second-lowest recovery rate in 2025 at **55%** — with the longest delivery times and the second-lowest loyalty adoption at **34.4%**. Faster delivery is the most direct fix available to improve APAC's standing.
+- APAC averages **9.51** days to delivery, versus NA's **3.51**-day benchmark, **171%** longer. LATAM (**8.50** days) and EMEA (**7.50 days**) also significantly trail the NA benchmark.
+- APAC posted the second-lowest recovery rate in 2025 at **55%**, carrying the longest delivery times and the second-lowest loyalty adoption at **34.4%**. Faster delivery is the most direct fix available to improve APAC's standing.
 
 <p align="center">
 <img src="images/revenue_recovery.png" width="900" height="472">
@@ -165,7 +165,7 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 
 **All Four Regions Collapsed Together in 2024 — Recovery Diverged, With Loyalty Adoption as the Strongest Directional Indicator**
 - Every region fell between **38%** and **43%** in 2024 — a synchronized contraction confirming the downturn was global, not regional.
-- NA entered 2025 with the highest loyalty adoption (**41.7%**) and led recovery at **65%** — EMEA entered with the lowest adoption (**29.2%**) and posted the weakest recovery at **48%**, a pattern that holds at both ends of the spectrum.
+- NA entered 2025 with the highest loyalty adoption (**41.7%**) and led recovery at **65%**. EMEA entered with the lowest adoption (**29.2%**) and posted the weakest recovery at **48%**, a pattern that holds at both ends of the spectrum.
 - APAC and LATAM sit between these extremes with recoveries of **55%** and **49%** respectively — loyalty adoption is the strongest directional indicator of recovery performance, though not the only factor at play.
 
 <p align="center">
@@ -173,7 +173,7 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 </p>
 
 **Every Region Recovered Ground in 2025 — None Have Fully Returned to 2022 Baseline**
-- NA recovered to **$6.9M** against an **$8.1M** baseline (**-13.8%**), EMEA to **$3.3M** against **$3.9M** (**-16.3%**), APAC to **$2.9M** against **$3.4M** (**-16.0%**), and LATAM to **$3.0M** against **$3.8M**(**-19.7%**) — every region remains below pre-compression levels
+- NA recovered to **$6.9M** against an **$8.1M** baseline (**-13.8%**), EMEA to **$3.3M** against **$3.9M** (**-16.3%**), APAC to **$2.9M** against **$3.4M** (**-16.0%**), and LATAM to **$3.0M** against **$3.8M**(**-19.7%**). Every region remains below pre-compression levels
 - NA is a different scale of business entirely — its **$1.2M** absolute gap is proportionally the smallest shortfall at **-13.8%**, while LATAM's **-19.7%** represents the deepest percentage gap of any region heading into 2026.
 - Across all four regions, the path back to 2022 revenue levels runs through the same place — growing loyalty enrollment where it lags most.
 
