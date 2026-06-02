@@ -116,8 +116,8 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 </p>
 
 **The Loyalty Program Did Not Prevent the 2024 Contraction — It Determined Who Came Back**
-- Both loyalty and non-loyalty order volumes compressed in 2024 — loyalty fell **28%**, non-loyalty fell **20%** — macro pressure did not discriminate by enrollment status.
-- Divergence emerged in 2025 — loyalty order volume surged **47%** from **6,416** to **9,455**, nearly matching the 2022 baseline of **9,963** in a single year — non-loyalty orders recovered just **8%**, still well below their 2022 peak of **22,197**
+- Both loyalty and non-loyalty order volumes compressed in 2024: loyalty fell **28%**, non-loyalty fell **20%**. Macro pressure did not discriminate by enrollment status.
+- Divergence emerged in 2025: loyalty order volume surged **47%** from **6,416** to **9,455**, nearly matching the 2022 baseline of **9,963** in a single year. Non-loyalty orders recovered just **8%**, still well below their 2022 peak of **22,197**.
 - On a revenue basis, loyalty member sales recovered **93%** from their 2024 low versus just **39%** for non-members — the program's value is not preventing downturns, it is determining who returns when conditions improve.
 
 <p align="center">
@@ -125,8 +125,8 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 </p>
 
 **Loyalty Members Retained at Nearly Twice the Rate of Non-Members**
-- Of **12,076** non-loyalty customers active in 2024, only **3,253** returned in 2025 — **8,823** were lost at a **26.9%** retention rate versus **47.0%** for loyalty members, a **20.1** percentage point gap.
-- Each converted non-loyalty customer represents **~$872** in incremental annual revenue — 8,823 lost customers represent a **~$7.7M** addressable opportunity.
+- Of **12,076** non-loyalty customers active in 2024, only **3,253** returned in 2025. **8,823** were lost at a **26.9%** retention rate versus **47.0%** for loyalty members, a **20.1** percentage point gap.
+- Each converted non-loyalty customer represents ~**$872** in incremental annual revenue. 8,823 lost customers represent a ~**$7.7M** addressable opportunity.
 - These **8,823** customers already know Venturo — re-engaging them costs less than acquiring new ones, and loyalty enrollment gives them a reason to stay.
 
 <p align="center">
@@ -135,10 +135,10 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 
 **The Loyalty AOV Premium Is Widening — Membership Compounds Spending Behavior Over Time**
 - Loyalty members command a **$67** AOV premium over non-members — a gap that grew from **$51** in 2022 to **$94** in 2025, persisting through the 2024 compression and widening post-recovery.
-- Higher spend per order combined with **2.90** orders per customer versus **1.88** for non-members, drove loyalty revenue share from **32.8%** in 2022 to **40.2%** in 2025 — the program is growing its share of Venturo's revenue while the overall customer base has yet to fully recover.
-
+- Higher spend per order combined with **2.90** orders per customer versus **1.88** for non-members drove loyalty revenue share from **32.8%** in 2022 to **40.2%** in 2025. The program is capturing a larger share of Venturo's revenue even as the overall customer base continues to recover.
+  
 **EMEA Has the Largest Enrollment Gap — And the Weakest Recovery to Match**
-- Loyalty adoption grew across all four regions between 2022 and 2025 — yet EMEA only narrowed the gap with NA from **18.5** percentage points in 2022 to **12.5** percentage points in 2025, the slowest closing rate of any region and the largest remaining enrollment gap.
+- Loyalty adoption grew across all four regions between 2022 and 2025, yet EMEA only narrowed the gap with NA from **18.5** percentage points in 2022 to **12.5** percentage points in 2025, the slowest closing rate of any region and the largest remaining enrollment gap.
 - Every region that entered 2025 with higher adoption recovered faster — closing EMEA's **12.5** percentage point gap is the most valuable enrollment opportunity available, and four years of regional data make the directional case.
 
 <h3 align="center">Regional Performance</h3>
