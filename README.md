@@ -31,7 +31,7 @@ The 2025 recovery was strong, with revenue rebounding **56%** to **$16.3M**, but
 
 <h2 align="center">Data Structure & ERD</h2>
 
-The database consists of five tables — `orders`, `customers`, `date_dim`, `geo_lookup`, and `order_status`— comprising 110,542 records. `orders` serves as the central fact table, linking to `customers` via `customer_id`, fulfillment and refund data via `order_id` through `order_status`, time-series dimensions via `date_dim`, and regional classification via `geo_lookup` through `country_code`.
+The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lookup`, and `order_status`, comprising 110,542 records. `orders` serves as the central fact table, linking to `customers` via `customer_id`, fulfillment and refund data via `order_id` through `order_status`, time-series dimensions via `date_dim`, and regional classification via `geo_lookup` through `country_code`.
 
 <p align="center">
 <img src="images/erd.png" width="800">
