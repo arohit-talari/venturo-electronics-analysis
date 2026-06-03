@@ -259,15 +259,15 @@ The database consists of five tables: `orders`, `customers`, `date_dim`, `geo_lo
 
 <h3 align="center">Analytical Assumptions</h3>
 
-- All year-over-year, seasonal, and monthly figures reflect the filtered dataset of **$63.8M** across **~51,026 customers** — excluding **3,353** records with missing order timestamps accounts for the **~$1.9M** discrepancy between the full data (**$65M**, **~52,000** customers) and filtered analysis.
-- The customer retention rate analysis reflects a single cohort (2024→2025) — a point-in-time measure that should not be extrapolated as a multi-year retention trend.
-- The correlation between loyalty adoption rate and regional recovery rate is directional, not causal — fulfillment performance, product mix, and regional macroeconomic conditions may also contribute to recovery rate differences and have not been fully isolated.
-- The macro narrative is inferred entirely from internal data patterns — external economic indicators were not incorporated and have not been validated against the findings presented here.
+- All year-over-year, seasonal, and monthly figures reflect the filtered data of **$63.8M** across ~**51,026 customers**. Excluding **3,353** records with missing order timestamps accounts for the ~**$1.9M** discrepancy between the full data (**$65M**, ~**52,000** customers) and filtered analysis.
+- The customer retention rate analysis reflects a single cohort (2024→2025). It is a point-in-time measure and should not be extrapolated as a multi-year retention trend.
+- The correlation between loyalty adoption rate and regional recovery rate is directional, not causal. Fulfillment performance, product mix, and regional macroeconomic conditions may also contribute to recovery rate differences and have not been fully isolated.
+- The macro narrative is inferred entirely from internal data patterns. External economic indicators were not incorporated and have not been validated against the findings presented here.
 
 <h3 align="center">Visualization Notes</h3>
 
-- The Product AOV Heatmap uses row-level scaling — color intensity reflects each product's performance relative to its own four-year range, not absolute AOV comparisons across products.
-- The three-chart Sales Performance panel displays monthly figures — trough values ($0.8M revenue, $472 AOV, 1,641 order volume) represent monthly lows, not annual totals. Annual figures are sourced separately from the yearly growth rate analysis.
+- The Product AOV Heatmap uses row-level scaling, where color intensity reflects each product's performance relative to its own four-year range, not absolute AOV comparisons across products.
+- The three-chart Sales Performance panel displays monthly figures, where trough values (**$0.8M** revenue, **$472** AOV, **1,641** order volume) represent monthly lows, not annual totals. Annual figures are sourced separately from the yearly growth rate analysis.
 
 
 
